@@ -6,6 +6,25 @@ namespace Eventos.IO.Domain.Models
 {
     public class Evento : Entity
     {
+        public Evento(string nome,
+            DateTime dataInicio,
+            DateTime dataFim,
+            bool gratuito,
+            decimal valor,
+            bool onLine,
+            string nomeEmpresa)
+        {
+
+            Id = Guid.NewGuid();
+            Nome = nome;
+            DataIncio = dataInicio;
+            DataFim = dataFim;
+            Gratuito = gratuito;
+            Valor = valor;
+            Online = onLine;
+            NomeEmpresa = nomeEmpresa;
+
+        }
         public string Nome { get; private set; }
         public string DescricaoCurta { get; private set; }
         public string DescricaoLonga { get; private set; }

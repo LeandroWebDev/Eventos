@@ -1,0 +1,5 @@
+C:\Projetos\Evento\Eventos.IO\src\Eventos.IO.Domain.Core\bin\Debug\netcoreapp3.1\Eventos.IO.Domain.Core.deps.json
+C:\Projetos\Evento\Eventos.IO\src\Eventos.IO.Domain.Core\bin\Debug\netcoreapp3.1\Eventos.IO.Domain.Core.dll
+C:\Projetos\Evento\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netcoreapp3.1\Eventos.IO.Domain.Core.csprojAssemblyReference.cache
+C:\Projetos\Evento\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netcoreapp3.1\Eventos.IO.Domain.Core.AssemblyInfoInputs.cache
+C:\Projetos\Evento\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netcoreapp3.1\Eventos.IO.Domain.Core.AssemblyInfo.cs
